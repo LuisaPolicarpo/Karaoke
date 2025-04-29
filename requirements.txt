@@ -5,3 +5,4 @@ numpy
 requests
 pandas
 streamlit-player
+from audio_recorder_streamlit import audio_recorder
